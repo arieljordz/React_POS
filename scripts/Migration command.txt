@@ -1,0 +1,7 @@
+
+Remove the existing folder (Migrations)
+
+Open Package Manager Console
+
+add-migration first -o Migrations
+update-database

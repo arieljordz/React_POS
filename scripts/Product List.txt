@@ -1,0 +1,39 @@
+Acyclovir
+Amoxicillin
+Amlodipine
+Ascorbic acid
+Atorvastatin
+Cefaclor
+Cefuroxime
+Celecoxib
+Co-amoxiclav
+Dapagliflozin
+Cetirizine
+Diosmin
+Erythromycin
+Febuxostat
+Fluconazole
+Glimepiride
+Ibandronic Acid
+Insulin
+Keltican
+Ketoconazole
+Lacidipine
+Levocetirizine
+Levofloxacin
+Levothyroxine
+Losartan
+Olanzapine
+Omeprazole
+Pantoprazole
+Paracetamol
+Pregabalin
+Propan
+Quetiapine
+Rifampicin
+Rupatadine fumarate
+Sertraline
+Teneligliptin
+Tobramycin
+Tranexamic
+Vildagliptin

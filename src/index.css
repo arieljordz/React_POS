@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dtactive {
+  background-color: rgb(212, 212, 212);
+}
+
+.text-bold {
+  font-weight: 500;
+}
+
+@media print {
+  .custom-print-layout {
+    width: 50%; /* 1/4 size, as 1/4 is 25% */
+    height: 50%; /* 1/4 size, as 1/4 is 25% */
+    margin-top: 0; /* No margins for better fit */
+    margin-left: 0; /* No margins for better fit */
+    margin-right: 0; /* No margins for better fit */
+    margin-bottom: 0; /* No margins for better fit */
+  }
+}

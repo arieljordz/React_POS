@@ -1,0 +1,17 @@
+Install this Extensions
+Prettier - Code formatter v10.1.0
+file-icons v1.1.0
+html to JSX v0.0.1
+ES7 React/Redux/GraphQL/React-Native snippets v1.9.3
+
+Install Node.js
+Allow access
+
+Terminal Command
+cd my-app-pos
+npm start
+ctrl + c to stop
+
+rm node_modules
+rm package-lock.json
+npm install
